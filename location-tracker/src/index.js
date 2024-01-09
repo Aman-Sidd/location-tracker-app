@@ -14,7 +14,7 @@ app.use(router);
 app.use(trackRoutes);
 
 const mongoURI =
-  "mongodb+srv://amansiddofficial:2019105%40Database786@cluster0.2dvvsyt.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://amansiddofficial:amansidd12345@cluster0.2dvvsyt.mongodb.net/?retryWrites=true&w=majority";
 
 mongoose.connect(mongoURI);
 
