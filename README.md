@@ -1,3 +1,5 @@
+<h5>Track your journeys effortlessly with our React Native app powered by Node.js, Express.js, and MongoDB. Utilizing the Google Maps API, easily record and visualize your navigation in real-time. Secure, intuitive, and dynamic – explore with confidence.</h5>
+
 <div><h1>Signup Screen: </h1><p>Allows users to register for a new account.</p></div>
 <img src="https://github.com/Aman-Sidd/location-tracker-app/assets/67181624/6e3c8122-9305-40c8-8694-98b238a3093d.png" alt="Signup Screen" height="400" />
 
